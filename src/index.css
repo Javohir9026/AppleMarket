@@ -1,0 +1,14 @@
+@import "tailwindcss";
+body {
+  font-family: "Montserrat", sans-serif;
+}
+.container {
+  @apply mx-auto px-10;
+}
+:root {
+  --primary: #D0EAFC;
+  --secondary: #0071E4;
+  --tertiary: #6FD91C;
+  --bg: #0f172a;
+  --card: #1e293b;
+}
