@@ -1,4 +1,4 @@
-import iphone14Midnight from "./images/14/iphone14Midnight.webp";
+import iphone14Midnight from './images/14/iphone14Midninght.webp'
 import Iphone14ProDeepPurple from './images/14/Iphone14ProDeepPurple.webp'
 import Iphone14ProMaxSpaceBlack from './images/14/Iphone14ProMaxSpaceBlack.webp'
 import Iphone14PlusStartlight from './images/14/smartfon-iphone-14-128gb-starlight.webp'
@@ -13,9 +13,9 @@ import Iphone12MiniWhite from './images/12/Iphone12MiniWhite.png'
 import Iphone11ProMaxMidnightGreen from './images/11/apple-iphone-11-pro-max-512gb-matte-midnight-green-18885-0.jpeg'
 import Iphone11ProSPaceGray from './images/11/apple-iphone-11-pro-256gb-grey-10360-0.jpeg'
 import Iphone11Purple from './images/11/apple-iphone-11-256gb-purple-13599-0.jpeg'
-import IphoneXsMaxGold from './images/xs/iphonexsmaxGold.jpeg'
-import IphoneXsSilver from './images/xs/iphonexsSilver.jpg'
-import IphoneXrCoral from './images/xs/IphoneXrCoral.png'
+import IphoneXsMaxGold from './images/x/iphonexsmaxGold.jpeg'
+import IphoneXsSilver from './images/x/iphonexsSilver.jpg'
+import IphoneXrCoral from './images/x/IphoneXrCoral.png'
 import IphoneXSpaceGray from './images/x/IphoneXspaceGray.png'
 import Iphone14ProductRed from './images/14/Iphone14ProductRed.webp'
 import Iphone14ProSilver from './images/14/smartfon-iphone-14-pro-128gb-silver.webp'
@@ -28,5 +28,6 @@ import Iphone13MiniBlue from './images/13/Iphone13MiniBlue.jpg'
 import Iphone12ProMaxGraphite from './images/12/apple-iphone-12-pro-max-128gb-graphite-19571-0.jpeg'
 import Iphone12ProPacificBlue from './images/12/Iphone12ProPacificBlue.jpeg'
 import Iphone12Green from './images/12/Iphone12Green.jpeg'
-export { Iphone14ProSilver, Iphone14ProMaxGold, Iphone14PlusBlue, Iphone13ProMaxAlpineGreen, Iphone13ProSilver, Iphone13Starlight, Iphone13MiniBlue, Iphone12ProMaxGraphite, Iphone12ProPacificBlue, Iphone12Green } ;
+import LogoApple from './icons/AppleIcon.svg';
+export { Iphone14ProSilver, Iphone14ProMaxGold, Iphone14PlusBlue, Iphone13ProMaxAlpineGreen, Iphone13ProSilver, Iphone13Starlight, Iphone13MiniBlue, Iphone12ProMaxGraphite, Iphone12ProPacificBlue, Iphone12Green, LogoApple } ;
 export { iphone14Midnight, Iphone14ProDeepPurple, Iphone14ProMaxSpaceBlack, Iphone14PlusStartlight, Iphone13ProMaxSierraBlue, Iphone13ProGraphite, Iphone13Midnight, Iphone13MiniPink, Iphone12ProMaxPacificBlue, Iphone12ProGold, Iphone12Blue, Iphone12MiniWhite, Iphone11ProMaxMidnightGreen, Iphone11ProSPaceGray, Iphone11Purple, IphoneXsMaxGold, IphoneXsSilver, IphoneXrCoral, IphoneXSpaceGray, Iphone14ProductRed } ;

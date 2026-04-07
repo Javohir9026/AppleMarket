@@ -3,7 +3,7 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 .container {
-  @apply mx-auto px-10;
+  @apply mx-auto px-[120px];
 }
 :root {
   --primary: #D0EAFC;
